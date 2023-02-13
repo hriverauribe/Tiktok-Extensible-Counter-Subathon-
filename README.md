@@ -5,11 +5,11 @@ the base project of "Zerodytrash" was used for the connection to tiktok:
 
 the instructions are the same, I just added the counter. If the project works for you, do not hesitate to follow "Zerodytrash" and follow me on my networks:
 
-Youtube: <a href="https://www.youtube.com/channel/UCr46fGjU2qdIEgI2U6cRoZA">
+Youtube: [BulkStreamFTW](https://www.youtube.com/channel/UCr46fGjU2qdIEgI2U6cRoZA)
 
-Tiktok:<a href="https://www.tiktok.com/@bulkgg>
+Tiktok: [bulkgg](https://www.tiktok.com/@bulkgg)
 
-Twitch:<a href="https://www.twitch.tv/bulkstreamftw>
+Twitch: [BulkStreamFTW](https://www.twitch.tv/bulkstreamftw)
 
 ## Installation
 To run the chat reader locally, follow these steps:
