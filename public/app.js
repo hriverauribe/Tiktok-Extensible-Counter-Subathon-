@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
         const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
     
-        countdownEl.innerHTML = `${days} Dias ${hours} Horas ${minutes} Minutos ${seconds} Segundos`;
+        countdownEl.innerHTML = `${days} Days ${hours} Hours ${minutes} Minutes ${seconds} Seconds`;
     }
 
    
